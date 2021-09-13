@@ -12,6 +12,8 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .box_3 {
 }
 .ellipse {
@@ -69,6 +71,8 @@
   text-align:left;
 }
 ._流程形状 {
+}
+._连接 {
 }
 .form_hint {
   color:#999999;
